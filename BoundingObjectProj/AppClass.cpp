@@ -1,7 +1,7 @@
 #include "AppClass.h"
 void AppClass::InitWindow(String a_sWindowName)
 {
-	super::InitWindow("Bounding Spheres DEMO");
+	super::InitWindow("Bounding Object Proj");
 }
 
 void AppClass::InitVariables(void)
